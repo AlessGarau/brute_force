@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+extract
+passwords.txt
+temp.py
+files/
